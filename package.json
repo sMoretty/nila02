@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "next": "^13.4.13",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "nila02",
+  "description": "Testando Next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "Next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sMoretty/nila02.git"
+  },
+  "author": "Moretty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sMoretty/nila02/issues"
+  },
+  "homepage": "https://github.com/sMoretty/nila02#readme"
+}
